@@ -8,7 +8,7 @@ Node Messaging Publish application using Express, Socket.io.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ashokramadasu/ucraft-node-socket`
+1. Clone the repository: `git clone https://github.com/ashokramadasu/ucraft-node-socket.git`
 2. Install the application: `cd ucraft-node-socket && npm install`
 3. Start the server:  `npm start` or `node server.js`
 
