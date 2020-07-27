@@ -15,4 +15,6 @@ Node Messaging Publish application using Express, Socket.io.
 
 ## Usage of API
 
-1. Suggestions always welcome. Have a nice day.
+1. Application is deployed in Heroku.
+2. Heroku URL: `http://ucraft-node-socket.herokuapp.com/`
+3. Suggestions always welcome. Have a nice day.
